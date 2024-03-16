@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Brian Jordan
 #### Computer Science major at Temple University (class of 2025)
-![Computer Science major at Temple University (class of 2025)](https://github.com/BrianJJordan/BrianJJordan/blob/main/CST%20Temple%20Logo.pdf)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
