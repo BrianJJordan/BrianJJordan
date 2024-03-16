@@ -8,8 +8,7 @@ Skills: JAVA / C / HTML / CSS / PYTHON
 
 - 🔭 I’m currently working on a JAVA to HTML convertor 
 - 🌱 I’m currently learning Data Structures 
-- 👯 I’m looking to collaborate on a coding project 
-- 📫 How to reach me: brianjordan@temple.edu 
+- 📫 How to reach me: brianjordan@temple.edu / (267)-961-0892 
 - ⚡ Fun fact: I weight lift every day! 
 
 
