@@ -23,8 +23,9 @@ Hi, I am Brian Jordan and I am currently looking for a 2024 summer internship. I
 
 ## **Socials**
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BrianJJordan)
-[![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/BrianJJordan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-jordan--/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brianjordan__/)
+[![Handshake](https://img.shields.io/badge/Handshake-FFA500?style=for-the-badge&logo=handshake&logoColor=white)](https://temple.joinhandshake.com/stu/users/30271855)
+
 
 
