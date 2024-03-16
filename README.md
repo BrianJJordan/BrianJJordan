@@ -1,4 +1,3 @@
 # Brian Jordan
-## uo
-### yo
-####### yo
+
+I am a Computer Science major at Temple University
