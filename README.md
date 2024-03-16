@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Brian Jordan
 #### Computer Science major at Temple University (class of 2025)
-![Computer Science major at Temple University (class of 2025)]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/BrianJJordan/BrianJJordan/blob/main/CST%20Temple%20Logo.png))
+![Computer Science major at Temple University (class of 2025)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/BrianJJordan/BrianJJordan/blob/main/CST%20Temple%20Logo.png)
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
