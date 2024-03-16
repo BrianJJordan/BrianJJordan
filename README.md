@@ -6,7 +6,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: JAVA / C / HTML / CSS / PYTHON
 
-- 🔭 I’m currently working on a JAVA HTML convertor 
+- 🔭 I’m currently working on a JAVA to HTML convertor 
 - 🌱 I’m currently learning Data Structures 
 - 👯 I’m looking to collaborate on a coding project 
 - 📫 How to reach me: brianjordan@temple.edu 
