@@ -13,14 +13,15 @@ Hi, I am Brian Jordan and I am currently looking for a 2024 summer internship. I
 ## **Passion**
 * Software Development
 * Cyber Security
-* User Experience and design
 * Artificial Intelligence and Machine Learning
 * Information Technology
 * Anything in the realm of technology
-
-- 🔭 I’m currently working on a JAVA to HTML convertor 
-- 🌱 I’m currently learning Data Structures 
-- 📫 How to reach me: brianjordan@temple.edu / (267)-961-0892 
-
+  
+## Reach Me:
+* 📫 brianjordan@temple.edu
+* 📫 (267)-961-0892
+  
+  
+## **Socials**
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrianJJordan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/BrianJJordan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brian-jordan--/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/brianjordan__/)  
 
