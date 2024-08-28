@@ -3,19 +3,19 @@
 Hi, I am Brian Jordan and I am currently looking for a 2024 summer internship. I want to progress my skills in programming, learn more about technology, and enhance my professional skills by collaborating with like-minded people. I am currently working at the Temple University Engineering Building as an **Additive Manufacturing Technician** where I maintain the printers and carry out print requests.  
 
 ## **Coursework**  
+* Operating Systems
 * Data Structures
 * Computer Systems and Low Level Programming
 * Program Design and Abstraction
 * Computer Programming in C
-* Discrete Mathematics
-* Calculus II
+* Discrete Mathematics II
+* Calculus III
 
 ## **Passion**
 * Software Development
 * Cyber Security
 * Artificial Intelligence and Machine Learning
 * Information Technology
-* Anything in the realm of technology
   
 ## Reach Me:
 * 📫 brianjordan@temple.edu
