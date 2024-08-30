@@ -12,6 +12,7 @@ Hi, I am Brian Jordan and I am currently looking for a 2024 summer internship. I
 * Calculus III
 
 ## **Passion**
+* Robotics
 * Software Development
 * Cyber Security
 * Artificial Intelligence and Machine Learning
