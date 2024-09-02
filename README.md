@@ -1,6 +1,6 @@
 # **Brian Jordan**
 #### **Computer Science major at Temple University (class of 2025)**
-Hi, I am Brian Jordan and I am currently looking for a 2024 summer internship. I want to progress my skills in programming, learn more about technology, and enhance my professional skills by collaborating with like-minded people. I am currently working at the Temple University Engineering Building as an **Additive Manufacturing Technician** where I maintain the printers and carry out print requests.  
+Hi, I am Brian Jordan and I am currently looking for a 2025 summer internship. I want to progress my skills in programming, learn more about technology, and enhance my professional skills by collaborating with like-minded people. I am currently working at the Temple University Engineering Building as an **Additive Manufacturing Technician** where I maintain the printers and carry out print requests.  
 
 ## **Coursework**  
 * Operating Systems
