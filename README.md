@@ -9,7 +9,7 @@ Hi, I am Brian Jordan and I am currently looking for a 2025 summer internship. I
 * Program Design and Abstraction
 * Computer Programming in C
 * Discrete Mathematics II
-* Calculus III
+* Calculus II
 
 ## **Passion**
 * Robotics
